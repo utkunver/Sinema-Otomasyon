@@ -54,15 +54,13 @@ namespace SinemaOtomasyon
 
         private void button2_Click(object sender, EventArgs e)
         {
-            foreach (Control item in this.Controls)
-            {
-                if (item is TextBox)
-                {
-                    if (item.Text == "")
+           
+                    if (textBox4.Text == "")
                     {
                         MessageBox.Show("Lütfen Seans Giriniz.", "Sinema Otomasyonu", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                        break;
+                      
                     }
+                    
                     else
                     {
                         baglan.Open();
@@ -70,9 +68,11 @@ namespace SinemaOtomasyon
                         komut.ExecuteNonQuery();
                         baglan.Close();
                         MessageBox.Show("Seans Başarı ile Eklendi.", "Sinema Otomasyonu", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                        
                     }
-                }
-            }
+               
+                
+            
        
         }
 
@@ -82,14 +82,11 @@ namespace SinemaOtomasyon
         }
 
         private void button1_Click(object sender, EventArgs e)
-        { foreach (Control item in this.Controls)
-            {
-                if (item is TextBox)
-                {
-                    if (item.Text == "")
+        { 
+                    if (textBox5.Text == "")
                     {
                         MessageBox.Show("Lütfen Tarihi Giriniz.", "Sinema Otomasyonu", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                        break;
+                      
                     }
                     else
                     {
@@ -99,8 +96,8 @@ namespace SinemaOtomasyon
                         baglan.Close();
                         MessageBox.Show("Tarih Başarı ile Eklendi.", "Sinema Otomasyonu", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     }
-                }
-            }
+            
+            
          
         }
     }

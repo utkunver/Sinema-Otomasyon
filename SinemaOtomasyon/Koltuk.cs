@@ -184,15 +184,11 @@ namespace SinemaOtomasyon
                 cmd.Parameters.AddWithValue("@se", " ");
                 cmd.Parameters.AddWithValue("@ta", " ");
                 SqlDataReader okuyucu = cmd.ExecuteReader();
-                while (okuyucu.Read())
-                {
+                while (okuyucu.Read()) {
                     SatilanKoltuklar.Add(okuyucu["KoltukAdi"].ToString());
                 }
 
                 verileriAl(); 
-        
-
-           
         }
 
         private void button3_Click(object sender, EventArgs e)

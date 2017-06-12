@@ -44,14 +44,11 @@ namespace SinemaOtomasyon
 
         private void button5_Click(object sender, EventArgs e)
         {
-               foreach (Control item in this.Controls)
-           {
-                if (item is TextBox)
-                {
-                    if (item.Text == "")
+           
+                    if (textBox1.Text == "")
                     {
                         MessageBox.Show("Lütfen Film İsmini Giriniz.", "Sinema Otomasyonu", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                        break;
+                         
                     }
                     else
                     {
@@ -63,10 +60,9 @@ namespace SinemaOtomasyon
                        
                         Bilet ac = new Bilet();
                         ac.ShowDialog();
-                     
-                    }
-                }
+               
             }
+
             FilmEkle.ActiveForm.Hide();
         }
 

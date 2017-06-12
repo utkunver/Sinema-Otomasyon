@@ -42,35 +42,30 @@ namespace SinemaOtomasyon
 
         }
         public void FilmDetay()
-        { 
-            baglan.Open();
-            string con = "Select *from FilmEkle Where ad=@fa";
-            SqlCommand cmd = new SqlCommand(con, baglan);
-            string film = comboBox2.SelectedItem.ToString();
-            cmd.Parameters.AddWithValue("@fa", film);
-            SqlDataReader dr;
-            dr = cmd.ExecuteReader();
-          
-            if (dr.HasRows)
-            {
-               
+        {
+            if (comboBox2.SelectedItem == null) {
+                MessageBox.Show("LÜtfen Film Seçiniz.", "Uyarı", MessageBoxButtons.OK);
+            } else {
+                baglan.Open();
+                string con = "SELECT * FROM FilmEkle WHERE ad=@fa";
+                SqlCommand cmd = new SqlCommand(con, baglan);
+                string film = comboBox2.SelectedItem.ToString();
+                cmd.Parameters.AddWithValue("@fa", film);
+                SqlDataReader dr;
+                dr = cmd.ExecuteReader();
 
-                    while (dr.Read())
-                    {
+                if (dr.HasRows) {
+                    while (dr.Read()) {
                         textBox1.Text = dr["ad"].ToString();
                         textBox2.Text = dr["yapım"].ToString();
                         textBox3.Text = dr["yonetmen"].ToString();
                         textBox4.Text = dr["oyuncu"].ToString();
                         textBox5.Text = dr["tur"].ToString();
                         textBox6.Text = dr["sure"].ToString();
-
                     }
-                
+                }
+                baglan.Close();
             }
-
-
-            baglan.Close();
-
         }
         private void verilerSeans()
         {

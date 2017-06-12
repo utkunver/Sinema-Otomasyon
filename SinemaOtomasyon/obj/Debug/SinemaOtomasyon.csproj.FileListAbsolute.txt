@@ -1,0 +1,48 @@
+C:\Users\mutku\Desktop\C# projelerim\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe.config
+C:\Users\mutku\Desktop\C# projelerim\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe
+C:\Users\mutku\Desktop\C# projelerim\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.pdb
+C:\Users\mutku\Desktop\C# projelerim\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\mutku\Desktop\C# projelerim\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Giris.resources
+C:\Users\mutku\Desktop\C# projelerim\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Properties.Resources.resources
+C:\Users\mutku\Desktop\C# projelerim\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.YeniUye.resources
+C:\Users\mutku\Desktop\C# projelerim\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.GenerateResource.Cache
+C:\Users\mutku\Desktop\C# projelerim\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.exe
+C:\Users\mutku\Desktop\C# projelerim\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.pdb
+C:\Users\mutku\Desktop\C# projelerim\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Bilet.resources
+C:\Users\mutku\Desktop\C# projelerim\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.BiletSatıs.resources
+C:\Users\mutku\Desktop\C# projelerim\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.FilmEkle.resources
+C:\Users\mutku\Desktop\C# projelerim\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.FilmKaldır.resources
+C:\Users\mutku\Desktop\C# projelerim\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Koltuk.resources
+C:\Users\mutku\Desktop\C# projelerim\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.ProgramKayıt.resources
+C:\Users\mutku\Desktop\C# projelerim\Sinema Otomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe.config
+C:\Users\mutku\Desktop\C# projelerim\Sinema Otomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe
+C:\Users\mutku\Desktop\C# projelerim\Sinema Otomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.pdb
+C:\Users\mutku\Desktop\C# projelerim\Sinema Otomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\mutku\Desktop\C# projelerim\Sinema Otomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Bilet.resources
+C:\Users\mutku\Desktop\C# projelerim\Sinema Otomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.BiletSatıs.resources
+C:\Users\mutku\Desktop\C# projelerim\Sinema Otomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.FilmEkle.resources
+C:\Users\mutku\Desktop\C# projelerim\Sinema Otomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.FilmKaldır.resources
+C:\Users\mutku\Desktop\C# projelerim\Sinema Otomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Giris.resources
+C:\Users\mutku\Desktop\C# projelerim\Sinema Otomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Koltuk.resources
+C:\Users\mutku\Desktop\C# projelerim\Sinema Otomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.ProgramKayıt.resources
+C:\Users\mutku\Desktop\C# projelerim\Sinema Otomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Properties.Resources.resources
+C:\Users\mutku\Desktop\C# projelerim\Sinema Otomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.YeniUye.resources
+C:\Users\mutku\Desktop\C# projelerim\Sinema Otomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.GenerateResource.Cache
+C:\Users\mutku\Desktop\C# projelerim\Sinema Otomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.exe
+C:\Users\mutku\Desktop\C# projelerim\Sinema Otomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.pdb
+D:\Dosyalarım\C# projelerim\Sinema Otomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe.config
+D:\Dosyalarım\C# projelerim\Sinema Otomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe
+D:\Dosyalarım\C# projelerim\Sinema Otomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.pdb
+D:\Dosyalarım\C# projelerim\Sinema Otomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csprojResolveAssemblyReference.cache
+D:\Dosyalarım\C# projelerim\Sinema Otomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Bilet.resources
+D:\Dosyalarım\C# projelerim\Sinema Otomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.BiletSatıs.resources
+D:\Dosyalarım\C# projelerim\Sinema Otomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.FilmEkle.resources
+D:\Dosyalarım\C# projelerim\Sinema Otomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.FilmKaldır.resources
+D:\Dosyalarım\C# projelerim\Sinema Otomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Giris.resources
+D:\Dosyalarım\C# projelerim\Sinema Otomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Koltuk.resources
+D:\Dosyalarım\C# projelerim\Sinema Otomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.ProgramKayıt.resources
+D:\Dosyalarım\C# projelerim\Sinema Otomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Properties.Resources.resources
+D:\Dosyalarım\C# projelerim\Sinema Otomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.YeniUye.resources
+D:\Dosyalarım\C# projelerim\Sinema Otomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.GenerateResource.Cache
+D:\Dosyalarım\C# projelerim\Sinema Otomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.exe
+D:\Dosyalarım\C# projelerim\Sinema Otomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.pdb
